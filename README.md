@@ -10,4 +10,4 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1vrk&show_icons=true&theme=radical)
 
 📫 **Contact:**  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin)](ваша_ссылка)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin)]([ваша_ссылка](https://www.linkedin.com/in/nikita-morfliuk-80517a359/))
