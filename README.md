@@ -19,6 +19,8 @@
 ![WPF](https://img.shields.io/badge/WPF-0C54C2?logo=.net&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/EF-512BD4?logo=.net&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
 
 ## 🎮 Unity Projects
 - [2D Roguelike Game](https://github.com/1vrk/The-Conquered-by-Abyss) - Процедурная генерация, система артефактов
