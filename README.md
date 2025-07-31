@@ -25,8 +25,6 @@
 ## 🎮 Unity Projects
 - [2D Roguelike Game](https://github.com/1vrk/The-Conquered-by-Abyss) - Процедурная генерация, система артефактов
   
-## 📈 GitHub Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1vrk&show_icons=true&theme=radical)
 
 🔥 **My Top Languages:**  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1vrk&layout=compact&theme=radical)
