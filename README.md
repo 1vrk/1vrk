@@ -27,6 +27,9 @@
 ![Power_BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
 
+## Data Analysis
+- [Forecasting the outflow of telecom company customers]([https://github.com/1vrk/The-Conquered-by-Abyss](https://github.com/1vrk/Telco_ML.git)) - Forecasting customer outflow of a telecom company based on historical data. The project includes a full cycle: from data analysis to ML model construction
+  
 ## Unity Projects
 - [2D Roguelike Game](https://github.com/1vrk/The-Conquered-by-Abyss) - Procedural generation, artifact system
   
