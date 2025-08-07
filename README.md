@@ -3,9 +3,10 @@
 ### C#/C++ Developer | Data Analyst / Junior ML Engineer | GameDev/Back-end Enthusiast 
 
 💼 **Open to Work**:
-- **Unity Game Development**
+- **Data Analysis/ML Engineer positions**
 - **C# Backend/Application Development** 
 - **C++ Backend Systems**
+- **Unity Game Development**
 - **Unreal Engine** (ready to transition and upskill rapidly)
 
 🔧 **Tech Stack:**  
