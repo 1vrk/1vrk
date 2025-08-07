@@ -27,10 +27,10 @@
 ![Power_BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
 
-## 🎮 Unity Projects
+## Unity Projects
 - [2D Roguelike Game](https://github.com/1vrk/The-Conquered-by-Abyss) - Процедурная генерация, система артефактов
   
-🔥 **My Top Languages:**  
+**My Top Languages:**  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1vrk&layout=compact&theme=radical)
 
 ## 📫 **How to reach me:**  
