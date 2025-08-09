@@ -29,7 +29,7 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
 
-## Data Analysis
+## Data Analysis + ML
 - [Forecasting the outflow of telecom company customers](https://github.com/1vrk/Telco_ML.git) - Forecasting customer outflow of a telecom company based on historical data. The project includes a full cycle: from data analysis to ML model construction
   
 ## Unity Projects
