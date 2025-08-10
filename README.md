@@ -1,6 +1,6 @@
 # I'm Nikita 
 
-### C#/C++ Developer | Data Analyst / Junior ML Engineer | GameDev/Back-end Enthusiast 
+### C#/C++ Developer | Data Analyst / Trainee ML Engineer | GameDev/Back-end Enthusiast 
 
 💼 **Open to Work**:
 - **Data Analysis/ML Engineer positions**
