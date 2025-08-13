@@ -1,4 +1,4 @@
-# I'm Nikita 
+# I'm Mikita 
 
 ### Data Analyst | Data Scientist | ML Engineer | GameDev/Back-end Enthusiast 
 
