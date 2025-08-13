@@ -3,7 +3,7 @@
 ### Data Analyst | Data Scientist | ML Engineer | GameDev/Back-end Enthusiast 
 
 💼 **Open to Work**:
-- **Data Analysis/ML Engineer positions**
+- **Data Analysis/Data Science/ML Engineer positions**
 - **C# Backend/Application Development** 
 - **C++ Backend Systems**
 - **Unity Game Development**
@@ -21,7 +21,6 @@
 
 🌱 **Currently Learning:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 ![Scikit_learn](https://img.shields.io/badge/Scikit_learn-F7931E?logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
