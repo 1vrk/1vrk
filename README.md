@@ -38,7 +38,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1vrk&layout=compact&theme=radical)
 
 ## 📫 **How to reach me:**  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin)](https://www.linkedin.com/in/nikita-morfliuk-80517a359/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin)](www.linkedin.com/in/mikita-marfliuk-80517a359)
 [![Email](https://img.shields.io/badge/Email-morfn669@gmail.com-8B89CC?logo=mail.ru)](mailto:morfn669@gmail.com)
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/mq_1vrk)
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?logo=discord&logoColor=white)](https://discordapp.com/users/1vrk)
