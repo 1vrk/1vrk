@@ -1,9 +1,9 @@
 # I'm Mikita 
 
-### Data Analyst | Data Scientist | ML Engineer | GameDev/Back-end Enthusiast 
+### Data Scientist | Data Analyst | ML Engineer | GameDev/Back-end Enthusiast 
 
 💼 **Open to Work**:
-- **Data Analysis/Data Science/ML Engineer positions**
+- **Data Science/Data Analysis/ML Engineer positions**
 - **C# Backend/Application Development** 
 - **C++ Backend Systems**
 - **Unity Game Development**
