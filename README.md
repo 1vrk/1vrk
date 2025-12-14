@@ -3,30 +3,20 @@
 ### Data Scientist | Data Engineer | ML Engineer 
 
 💼 **Open to Work**:
-- **Data Science/Data Analysis/ML Engineer positions**
-- **C# Backend/Application Development** 
-- **C++ Backend Systems**
-- **Unity Game Development**
-- **Unreal Engine** (ready to transition and upskill rapidly)
+- **Data Science/Data Engineer/ML Engineer positions**
 
 🔧 **Tech Stack:**  
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-FFFFFF?logo=unity&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
-![WPF](https://img.shields.io/badge/WPF-0C54C2?logo=.net&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/EF-512BD4?logo=.net&logoColor=white)
-![SourceTree](https://img.shields.io/badge/SourceTree-0052CC?logo=sourcetree&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-
-🌱 **Currently Learning:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 ![Scikit_learn](https://img.shields.io/badge/Scikit_learn-F7931E?logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ![Power_BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
+![SourceTree](https://img.shields.io/badge/SourceTree-0052CC?logo=sourcetree&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+
+🌱 **Currently Learning:**  
 
 ## Data Analysis + ML
 - [Forecasting the outflow of telecom company customers](https://github.com/1vrk/Telco_ML.git) - Forecasting customer outflow of a telecom company based on historical data. The project includes a full cycle: from data analysis to ML model construction
