@@ -1,6 +1,6 @@
 # I'm Mikita 
 
-### Data Scientist | Data Analyst | ML Engineer 
+### Data Scientist | Data Engineer | ML Engineer 
 
 💼 **Open to Work**:
 - **Data Science/Data Analysis/ML Engineer positions**
