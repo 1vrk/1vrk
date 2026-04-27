@@ -2,10 +2,10 @@
 
 ### Data Scientist | Data Engineer | ML Engineer 
 
-💼 **Open to Work**:
+ **Open to Work**:
 - **Data Science/Data Engineer/ML Engineer positions**
 
-🔧 **Tech Stack:**  
+ **Tech Stack:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 ![Scikit_learn](https://img.shields.io/badge/Scikit_learn-F7931E?logo=scikit-learn&logoColor=white)
@@ -16,7 +16,7 @@
 ![SourceTree](https://img.shields.io/badge/SourceTree-0052CC?logo=sourcetree&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
-🌱 **Currently Learning:**  
+ **Currently Learning:**  
 
 ## Data Analysis + ML
 - [Forecasting the outflow of telecom company customers](https://github.com/1vrk/Telco_ML.git) - Forecasting customer outflow of a telecom company based on historical data. The project includes a full cycle: from data analysis to ML model construction
@@ -27,7 +27,7 @@
 **My Top Languages:**  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1vrk&layout=compact&theme=radical)
 
-## 📫 **How to reach me:**  
+##  **How to reach me:**  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin)](https://www.linkedin.com/in/mikita-marfliuk-80517a359/)
 [![Email](https://img.shields.io/badge/Email-morfn669@gmail.com-8B89CC?logo=mail.ru)](mailto:morfn669@gmail.com)
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/mq_1vrk)
