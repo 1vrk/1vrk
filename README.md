@@ -54,39 +54,30 @@
 -----------=+%@@@@@@@@@@%##+*++=====----------------------------------===+*####%@@@@@@@@@%*+=-------
 ```
  **Experience**:
- -*
- MedLab (NDA) - ML + GO developer 05.05.2026 - present
-*
- - *
- Plus Games - Internship C# developer 14.03.2025 - 15.06.2025
-*
-
+- MedLab (NDA): ML + GO developer -> 05.05.2026 - present
+- Plus Games: Internship C# developer -> 14.03.2025 - 15.06.2025
 - **Data Science/Data Engineer/ML Engineer positions**
 
  **Tech Stack:**  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
-![Scikit_learn](https://img.shields.io/badge/Scikit_learn-F7931E?logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![Power_BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
-![SourceTree](https://img.shields.io/badge/SourceTree-0052CC?logo=sourcetree&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+* **Languages:** Python, Go, C#, C++, SQL
+* **ML:** TensorFlow, Scikit-learn, NumPy, Pandas, Matplotlib, Seaborn, Jupyter, Spark, Dask, 
+* **DB:** RDBMS (MySQL, SQLite), MongoDB, Qdrant (VectorDB), Redis, AWS S3
+* **Backend + DE:** FastAPI, Kafka, RabbitMQ, Apache Airflow
+* **DA:** Power BI, Apache Superset, MS Excel
+* **DevOps:** Docker, Git (GitLab, Sourcetree, Bash), Jira, Confluence
 
- **Currently Learning:**  
+# Current Project (in progress):
+## I'll add it soon..
 
+# Pet projects(alr done):
 ## Data Analysis + ML
 - [Forecasting the outflow of telecom company customers](https://github.com/1vrk/Telco_ML.git) - Forecasting customer outflow of a telecom company based on historical data. The project includes a full cycle: from data analysis to ML model construction
   
 ## Unity Projects
 - [2D Roguelike Game](https://github.com/1vrk/The-Conquered-by-Abyss) - Procedural generation, artifact system
   
-**My Top Languages:**  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1vrk&layout=compact&theme=radical)
 
 ##  **How to reach me:**  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin)](https://www.linkedin.com/in/mikita-marfliuk-80517a359/)
 [![Email](https://img.shields.io/badge/Email-morfn669@gmail.com-8B89CC?logo=mail.ru)](mailto:morfn669@gmail.com)
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/mq_1vrk)
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?logo=discord&logoColor=white)](https://discordapp.com/users/1vrk)
