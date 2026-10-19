@@ -53,7 +53,14 @@
 ----------+%@@@@@@@@@@@@@@@@@@@@@@@@%***+=+=++==+=+=====+===++=+=*#%%@@%@@@@@@@@@@@@@@@@@@@@#=------
 -----------=+%@@@@@@@@@@%##+*++=====----------------------------------===+*####%@@@@@@@@@%*+=-------
 ```
- **Open to Work**:
+ **Experience**:
+ -*
+ MedLab (NDA) - ML + GO developer 05.05.2026 - present
+*
+ - *
+ Plus Games - Internship C# developer 14.03.2025 - 15.06.2025
+*
+
 - **Data Science/Data Engineer/ML Engineer positions**
 
  **Tech Stack:**  
