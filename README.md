@@ -68,7 +68,7 @@
 
 # Current Project (in progress):
 ## DEADLOCK 
-- [**DynamoR**](https://github.com/1vrk/DynamoR) - is a tool to choose the build for the any game in Deadlock
+- [**DynamoR**](https://github.com/1vrk/DynamoR) - is a tool to create the build for the any game in Deadlock
 
   
 
