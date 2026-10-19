@@ -67,7 +67,10 @@
 * **DevOps:** Docker, Git (GitLab, Sourcetree, Bash), Jira, Confluence
 
 # Current Project (in progress):
-## I'll add it soon..
+## DEADLOCK 
+- [**DynamoR**](https://github.com/1vrk/DynamoR) - is a tool to choose the build for the any game in Deadlock
+
+  
 
 # Pet projects(alr done):
 ## Data Analysis + ML
